@@ -53,6 +53,4 @@ let g:EasyClipAutoFormat = 1
 let g:EasyClipShareYanks = 1
 
 syntax on
-set number
-se mouse+=a  "exclude number from mouse selection
 
